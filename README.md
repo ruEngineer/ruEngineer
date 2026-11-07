@@ -12,12 +12,10 @@
 </p>
 
 ---
-<!-- Верхняя большая карточка -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruEngineer&theme=github_dark" width="100%" />
 </p>
 
-<!-- Две нижние карточки в одну строку -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruEngineer&theme=github_dark" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruEngineer&theme=github_dark&utcOffset=3" width="48%" />
